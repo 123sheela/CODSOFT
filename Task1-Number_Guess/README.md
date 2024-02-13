@@ -30,7 +30,7 @@
 ## How to Play
  - **Clone Repository :** Clone this repository to your local machine using Git.
       ```bash
-         https://github.com/123sheela/CODSOFT/new/main/Task1-Number_Guess
+         https://github.com/123sheela/CODSOFT/tree/main/Task1-Number_Guess
  - **Compile the Code :** Compile the Main.java file using your preferred Java compiler.
  - **Start Guessing :** Run the compiled .class file and choose your desired game mode to begin the challenge.
  - **Win the Game :** Use your intuition, logical thinking, and a bit of luck to guess the secret number and emerge victorious!
