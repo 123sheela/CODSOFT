@@ -13,9 +13,6 @@
 -  **User Input :** Players interact with the game by entering their guesses through the console or user interface, attempting to identify the hidden number.
 -  **Game Loop:** The game continues until the player correctly guesses the number, providing an engaging and dynamic experience with each attempt.
 -  **Hint System:** Provide the player with hints after each guess, such as whether the number is divisible by a certain value or falls within a specific range.
-
-
--  **User Input :**
      
 
    
