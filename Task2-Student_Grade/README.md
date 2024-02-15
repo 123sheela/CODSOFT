@@ -5,7 +5,7 @@
 ## Description
 
  - ### Student Grade Calculator
-   This task is about a Grade calculator for the students, it seems to be an simple and easier one. 
+   This task is about **A Grade calculator** for the students, it seems to be an simple and easier one. 
      But declaring the variables and using it in the program plays a crucial part in this task.
 
 ## Overview
