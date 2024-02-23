@@ -14,7 +14,7 @@ The quiz application allows users to test their knowledge by answering a series 
 - **Score tracking:** The application keeps track of the user's score based on the correct answers.
 - **Time taken for each question:** The application displays the time taken by the user to answer each question.
 - **Final result:** After completing the quiz or when the timer expires, the application displays the final score, along with the number of correct and incorrect answers.
-- **Error handling: ** The application gracefully handles invalid input and provides appropriate prompts to the user.
+- **Error handling:** The application gracefully handles invalid input and provides appropriate prompts to the user.
 
 ## How to Use
 - Clone the repository to your local machine.
