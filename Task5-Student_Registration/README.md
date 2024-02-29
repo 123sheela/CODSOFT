@@ -18,7 +18,7 @@
 
 - **Clone the repository to your local machine:**
     ```bash
-     
+      https://github.com/123sheela/CODSOFT/tree/main/Task5-Student_Registration
 - **Compile the class file:**
   ```bash
       Main.java
@@ -28,14 +28,17 @@
   ## Samples 
 
    ### Here is the output image of Task-5
-
-
+ ![outpt1](https://github.com/123sheela/CODSOFT/assets/91262191/462fdf7f-0493-4fb7-be8f-36ae1375ee64)
+ ![outpt2](https://github.com/123sheela/CODSOFT/assets/91262191/a57baca4-a0c2-4f7f-adf8-0be003f33c87)
+ ![outpt3](https://github.com/123sheela/CODSOFT/assets/91262191/69bedffd-220e-4cef-a411-d7ec33272282)
 
    ### Here is the sample video of Task-5
+Uploading Task5_Student_Registration.mp4…
 
    ## Contributions 🤝🏻
 
-    > Contributions are always welcome!🤜🏻🤛🏻 Please feel free to fork this project and make pull requests if you have any features or improvements in mind. 
+  > Contributions are always welcome!🤜🏻🤛🏻
+  > Please feel free to fork this project and make pull requests if you have any features or improvements in mind. 
     
  ## Let's make the Student Course Registration System even better together!🙌🏻🔥
 
