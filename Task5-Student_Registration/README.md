@@ -1,5 +1,4 @@
 
-https://github.com/123sheela/CODSOFT/assets/91262191/fc863b64-cc7b-4177-b762-775d39ba012c
 # TASK 5 - COMPLETED 💥
 
 > Welcome to My Task-5 Repository!
@@ -35,6 +34,7 @@ https://github.com/123sheela/CODSOFT/assets/91262191/fc863b64-cc7b-4177-b762-775
  ![outpt3](https://github.com/123sheela/CODSOFT/assets/91262191/69bedffd-220e-4cef-a411-d7ec33272282)
 
    ### Here is the sample video of Task-5   
+  https://github.com/123sheela/CODSOFT/assets/91262191/fc863b64-cc7b-4177-b762-775d39ba012c
 
    ## Contributions 🤝🏻
 
@@ -42,6 +42,7 @@ https://github.com/123sheela/CODSOFT/assets/91262191/fc863b64-cc7b-4177-b762-775
   > Please feel free to fork this project and make pull requests if you have any features or improvements in mind. 
     
  ## Let's make the Student Course Registration System even better together!🙌🏻🔥
+
 
 
 
